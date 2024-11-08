@@ -1,2 +1,2 @@
 # C++-language-programs
-There are different programs related to C++ language on this repository in which different conditions like (if, if-else, if-else-if) and also nested condition of it, switch and also different loops are used like (for, while, do while)..........
+This repository contains different programs related to the C++ language, in which different conditions, such as (if, if-else, if-else-if) and nested conditions of it, switch, and different loops are used, like (for, while, do-while) and nested conditions of it. Arrays are also used in this repository. 
